@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.ds1 {
+  color: #ccc;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.ds3 {
+  color: red;
+}
+
+.fifa23 {
+  color: aqua;
+}
